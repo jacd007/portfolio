@@ -41748,7 +41748,7 @@ return s},
 UR(a,b){return new A.Eq(B.Hb,b,B.a4u,null)},
 Vh(a,b){var s,r,q,p,o,n,m=this,l=null,k=m.a.fr,j=A.cR(a,B.CK),i=j==null?l:j.d
 if(i==null)i=B.Z
-if(k!==B.a1c)s=k===B.Ch&&i===B.a5
+if(k!==B.Ch)s=k===B.a1c&&i===B.a5
 else s=!0
 j=A.cR(a,B.CH)
 j=j==null?l:j.Q
@@ -65206,7 +65206,7 @@ $1(a){var s,r=$.arz(),q=$.arw(),p=A.aE(["/",new A.abe(),"/home_main",new A.abf()
 $.bL()
 s=$.bw().b.a.f
 s=s.length===0?B.rg:B.b.gG(s)
-return new A.lU(this.a.d,p,"/","APP NAME",r,q,B.Ch,new A.a0E(),s,B.iq,B.Jz,B.Ph,!1,null)},
+return new A.lU(this.a.d,p,"/home_main","APP NAME",r,q,B.Ch,new A.a0E(),s,B.iq,B.Jz,B.Ph,!1,null)},
 $S:392}
 A.abe.prototype={
 $1(a){return B.X7},
@@ -70925,8 +70925,8 @@ B.a0d=new A.n(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,
 B.a_L=new A.n(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.a1a=new A.d7(B.a_q,B.a0P,B.a0w,B.YX,B.a0o,B.a_k,B.a0T,B.Zs,B.a_0,B.a0h,B.YO,B.a0x,B.a0l,B.a0d,B.a_L)
 B.a1b=new A.KD(1,"longestLine")
-B.Ch=new A.KH(0,"system")
-B.a1c=new A.KH(2,"dark")
+B.a1c=new A.KH(0,"system")
+B.Ch=new A.KH(2,"dark")
 B.a1d=new A.wt(null)
 B.bM=new A.ps(0,"clamp")
 B.h2=new A.ps(1,"repeated")
